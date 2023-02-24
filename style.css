@@ -1,0 +1,22 @@
+#navicon{
+    height: 59px;
+    width: 198.07142639160156px;
+    left: 212px;
+    top: 30px;
+    border-radius: 0px;
+}
+#nav{
+    background: #F0FFF0;
+
+}
+.navbar{
+    padding: 0 6%;
+}
+.box-1{
+     width: 100%;
+    height: 576px;
+    left: 0px;
+    top: 0px;
+    background: #F0FFF0;
+    padding: 0% 7.5%;
+}
